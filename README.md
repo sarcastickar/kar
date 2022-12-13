@@ -1,7 +1,4 @@
-# os-labs
-all os labs of vip pune 
-
-
+EDI DECENTRALIZED SYSTEM 🌻
 
 1: Write a shell script to sort an array of numbers using any sort method.
 
